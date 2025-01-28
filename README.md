@@ -1,6 +1,6 @@
 
-Language: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+![Python](https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white)
 
-https://img.shields.io/github/license/{atharvapatil22}/{HW1}.svg
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-Platform: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+![Platform: Linux](https://img.shields.io/badge/Platform-Linux-yellow?logo=linux&logoColor=white)
